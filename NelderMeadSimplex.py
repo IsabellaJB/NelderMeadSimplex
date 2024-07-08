@@ -68,10 +68,10 @@ def objective_function(x):
 
 
 
-# x_start = np.array([-1.0, 1.5])
+x_start = np.array([-1.0, 1.5])
 
 # Funcion Himmelblau
-x_start = np.array([3.0, 2.0])
+# x_start = np.array([3.0, 2.0])
 
 # Función Rastrigin
 # x_start = np.array([-2,-2,-2])
